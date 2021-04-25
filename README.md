@@ -24,3 +24,12 @@ test set, starting from the training set. This should include hyperparameter opt
 
 -----
 **The submission deadline is next _Wednesday, the 28th, at 3:00 pm CET_.**
+
+-----
+
+#### File Structure:
+- `f1.ipynb` -> Data Import and Preparation + Basic Linear Regression
+- `f2.ipynb` -> Adds Supported Vector Machine + LSTM (not working correctly in this version)
+- `f4.ipynb` -> Minor changes to `f1.ipynb` + XGBoost and GridSearch to optimize hyperparameters
+- `/data` -> contains train and test datasets
+- `/submissions` -> contains submissions made on the platform
